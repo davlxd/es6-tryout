@@ -1,0 +1,24 @@
+{
+  "name": "lalr-cc",
+  "version": "1.0.1",
+  "description": "A Simple LALR Parser generator written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxdcn/lalr-cc.git"
+  },
+  "keywords": [
+    "javascript",
+    "compiler",
+    "lalr"
+  ],
+  "author": "lxd <i@lxd.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxdcn/lalr-cc/issues"
+  },
+  "homepage": "https://github.com/lxdcn/lalr-cc#readme"
+}
